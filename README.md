@@ -1,5 +1,5 @@
 # Constraint-Satisfaction-Problem 
-# Province Coloring Program
+## Province Coloring Program
 
 This Python program assigns colors to Canadian provinces such that no two neighboring provinces share the same color. The program demonstrates the concept of graph coloring, where provinces represent graph nodes, and edges represent adjacency between provinces.
 
